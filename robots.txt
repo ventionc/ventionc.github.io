@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ventionc.github.io/a/sitemap.html
+Sitemap: https://ventionc.github.io/b/sitemap.html
+Sitemap: https://ventionc.github.io/c/sitemap.html
+Sitemap: https://ventionc.github.io/d/sitemap.html
